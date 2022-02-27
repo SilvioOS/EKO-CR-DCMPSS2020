@@ -42,6 +42,14 @@
       ]
     },
     {
+      "slug": "AClave_Eko",
+      "name": "AClave_Eko",
+      "description": "EKO CR Clave sound",
+      "tags": [
+        "Utility"
+      ]
+    },
+    {
       "slug": "SnareDrum",
       "name": "SnareDrum",
       "description": "EKO CR Snare drum sound",
